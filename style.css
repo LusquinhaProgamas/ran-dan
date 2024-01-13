@@ -1,0 +1,30 @@
+body {
+    background: rgb(115, 115, 236);
+    font: normal 15pt Arial;
+}
+header {
+    color: white;
+    text-align: center;
+
+}
+section {
+    background: white;
+    width: 500px;
+    margin: auto;
+    border-radius: 8px;
+    padding: 5px;
+
+}
+div {
+    text-align: center;
+}
+video{
+    width: 500px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
